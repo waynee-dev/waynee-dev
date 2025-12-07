@@ -29,3 +29,6 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-181717?style=for-the-badge&logo=vercel)
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-181717?style=for-the-badge&logo=visualstudiocode)
+
+
+![](https://komarev.com/ghpvc/?username=wayne-dev)
