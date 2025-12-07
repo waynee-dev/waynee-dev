@@ -2,9 +2,9 @@
 
 <p align="center">
 <a href="https://discord.com/users/1128221068998496296">
-<img src="https://lanyard.cnrad.dev/api/1128221068998496296)](">
-</p>
+<img src="https://lanyard.cnrad.dev/api/1128221068998496296">
 </a>
+</p>
 
 
 ---
