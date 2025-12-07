@@ -32,5 +32,6 @@
 
 ---
 
-
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=wayne-dev)
+</p>
