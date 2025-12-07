@@ -4,6 +4,8 @@
 <img src="https://lanyard.cnrad.dev/api/1128221068998496296)](https://discord.com/users/1128221068998496296">
 </p>
 ---
+
+
 ### 📝 Portfolio
 
 [![portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
