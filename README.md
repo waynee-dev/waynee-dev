@@ -5,6 +5,8 @@
 
 ### 🖥️ Tech Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript)
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-181717?style=for-the-badge&logo=tailwindcss)
