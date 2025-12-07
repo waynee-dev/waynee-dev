@@ -1,8 +1,10 @@
 <h1 align="center">Waynee — Front End & Back End Developer</h1>
 
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/1128221068998496296)](https://discord.com/users/1128221068998496296">
+<a href="https://discord.com/users/1128221068998496296">
+<img src="https://lanyard.cnrad.dev/api/1128221068998496296)](">
 </p>
+</a>
 
 
 ---
