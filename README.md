@@ -5,7 +5,7 @@
 
 ### 🖥️ Tech Stack
 
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html)
 
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css)](#)
 
