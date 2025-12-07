@@ -3,7 +3,7 @@
 ---
 ### 📝 Portfolio
 
-[![portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ---
 
