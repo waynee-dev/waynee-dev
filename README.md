@@ -1,7 +1,11 @@
 <h1 align="center">Waynee — Front End & Back End Developer</h1>
 
 ---
+### 📝 Portfolio
 
+[![portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+
+---
 
 ### 🖥️ Tech Stack
 
